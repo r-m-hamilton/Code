@@ -1,6 +1,7 @@
 # 1/30/2021
 # Web Scraper - scan web pages for a specific element, returning 
 # information in a CSV file
+# Added to github 2/15/2021
 
 from selenium.webdriver.common.keys import Keys
 from selenium import webdriver
